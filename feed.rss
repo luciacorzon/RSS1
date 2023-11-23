@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+    <title>Games</title>
+    <description>Games online</description>
+    <link>https://github.com/luciacorzon/RSS1.git</link>
+    <pubDate>Thu, 23 Nov 2023 12:30:02 GMT</pubDate>
+    <managingEditor>a23luciacv@iessanclemente.net</managingEditor>
+
+    <item>
+        <title>Ikariam</title>
+        <link>https://github.com/luciacorzon/RSS1.git/index.html#Ikariam</link>
+        <pubDate>Thu, 23 Nov 2023 12:30:02 GMT</pubDate>
+        <description>Ikariam</description>
+    </item>
+ </channel>
+</rss>
